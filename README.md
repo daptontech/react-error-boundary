@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Blog Link - https://www.daptontechnologies.com/react-error-boundary
+
 Demo Link - https://optimistic-bardeen-58f897.netlify.com/
 
 ## Available Scripts
